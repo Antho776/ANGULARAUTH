@@ -1,0 +1,1 @@
+mongodb+srv://root:<password>@eventsdb.cdbz1.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
